@@ -112,7 +112,7 @@ semi-strukturierte Interviews
   * Daten eher qualitativer als quantitativer Natur
   * Sample zu klein um wirklich verallgemeinernde Aussagen zu treffen
   * bisschen fragwürdig wie wissenschaftlich sauber, keine Aufnahmen, sondern nur Mitschrift
-  * wird aber als genügen erachtet, um einen ersten Einblick in die Breite der möglichen Motivationen zu gewinnen
+  * wird aber als genügend erachtet, um einen ersten Einblick in die Breite der möglichen Motivationen zu gewinnen
 
 XX Interviews
 
