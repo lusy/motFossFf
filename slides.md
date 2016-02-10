@@ -301,13 +301,28 @@ auf der Suche nach spannender/sinnvoller Freizeitbeschäftigung
 
 Spielen folgende Punkte ne Rolle für deine Motivation:
 2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+1 ja
+
 2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+
 2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+naja, muss man zwangsläufig, wenn man das Projekt betreiben möchte: 1
+
 2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+1 ja (zivilgesellschaftliche Kommunikationsinfrastruktur; die Industrie hat eine eigene; der Staat auch)
+
 2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+1 ja
+
 2.6 Mir ist Netzneutralität wichtig
+(eigentlich steht das auch im Pico-Peering-Agreement..)
+1 ja
+
 2.7 Ich mach das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+1 nein
+
 2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+1 nein (eher: war der Bereich, wo ich meine bereits vorhandenen Kenntnisse anwenden konnte)
 
 ---
 
