@@ -53,7 +53,7 @@ Ryan and Deci 2000
 
 ---
 
-# *intrinsische* vs *extrinsische* Motivation
+## *intrinsische* vs *extrinsische* Motivation
 
 einfache Unterscheidung:
 
@@ -86,7 +86,12 @@ $\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht 
 
 ---
 
-# Aufbau des Vortrags
+## Aufbau des Vortrags
+
+* FOSS : Motivationen
+* Freifunk : Motivationen
+* FOSS und Freifunk: Gemeinsamkeiten und Unterschiede?
+* Diskussion
 
 ---
 
