@@ -67,9 +67,28 @@ of which represent active, agentic states.''
 
 # Untersuchte Papers (FOSS)
 
+papers vorstellen;
+* untersuchte gruppe
+* methodik (was hat sie für auswirkung auf die ergebnisse? evtl die frage wo anders behandeln)
+* welche perspektive vertreten die papers? (psychologisch, wirtschaftlich, sozialwissenschaftlich, ...)
+
+"Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars and Shaosong Ou
+
+"Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner and Stefanie Herrmann
+
+"Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani and Robert Wolf
+
+"Some Simple Economics of Open Source" Josh Lerner and Jean Tirole
+
+"Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah
+
+"What Make Long Term Contributors: Willingness and Opportunity in OSS Community" Minghui Zhou and Audris Mockus
+
 ---
 
 # Motivationen FOSS
+
+welche werden angegeben/rausgefunden/wo
 
 ---
 
