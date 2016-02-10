@@ -156,7 +156,6 @@ semi-strukturierte Interviews
 
 # Warum/wie bist du eingestiegen?
 
-* wäre spannend andere Freie Netzwerk Projekte anzugucken, die sind doch ziemlich unterschiedlich und Mitmachmotivation können durchaus variieren (vgl zb Guifi in Katalonien wo Menschen zT fürs Installieren bezahlt werden; oder wo es tatsächlich noch relevant ist, dass Menschen auf dem Land keinen Anschluss von kommerziellen Providern bekommen)
 
 # Was ist am Projekt cool?
 
@@ -199,7 +198,13 @@ In welchen Punkten unterscheiden sie sich?
 
 ---
 
-# Diskussionsfragen von mir
+# Ausblick/kritische Diskussion
+
+* wäre spannend andere Freie Netzwerk Projekte anzugucken, die sind doch ziemlich unterschiedlich und Mitmachmotivation können durchaus variieren (vgl zb Guifi in Katalonien wo Menschen zT fürs Installieren bezahlt werden; oder wo es tatsächlich noch relevant ist, dass Menschen auf dem Land keinen Anschluss von kommerziellen Providern bekommen)
+
+* in wie fern kann man diesen Vergleich in der Form überhaupt durchziehen? Ist die Methodik nicht doch zu unterschiedlich, damit es Sinn ergibt?
+
+* Die Papers beschäftigen sich (vor allem) mit der Motivation von Entwickler*innen. Allerdings gibt es auch andere Möglichkeiten zu beiden Communities beizutragen (user documentation, publicity, design, Übersetzung, ...). Kann man sich da andere Motivationen vorstellen?
 
 ---
 
