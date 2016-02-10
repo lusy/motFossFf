@@ -94,6 +94,12 @@ welche werden angegeben/rausgefunden/wo
 
 # Untersuchte Arbeiten (Freifunk)
 
+"Wlan für alle: Freie Funknetze in der Praxis" -- mabb Broschüre
+
+"Freie Netze: Geschichte, Politik und Kultur offener WLAN-Netze" -- Armin Medosch
+
+"Wireless Networking in the Developing World" -- Jane Butler
+
 * nicht explizit Motivation gewidmet
 
 --> deshalb los gezogen und Menschen selber gefragt
