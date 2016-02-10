@@ -42,9 +42,24 @@ Was ist es?
 
 # Motivation
 
-theoret. Rahmen
-viele der Paper (bzgl FOSS) reden von intrinsischer/extrinsischer Motivation
+Ryan and Deci 2000 <-- paper bildchen
 
+``To be motivated means to be moved to do something.''
+
+"intrinsische" vs "extrinsische" Motivation
+most basic distinction:
+intrinsic: inherently interesting/enjoyable
+extrinsic: leads to a separable outcome
+
+but
+Extrinsische Motivation != Extrinsische Motivation
+--> Kontinuum
+``varied types of extrinsic motivation, some
+of which do, indeed, represent impoverished forms of motivation and some
+of which represent active, agentic states.''
+
+
+---
 
 # Aufbau des Vortrags
 
