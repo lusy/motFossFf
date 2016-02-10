@@ -259,6 +259,42 @@ andererseits nur wenn groß, hast du relevante Abdeckung
 
 # Was ist deine primäre Mitmachmotivation?
 
+Menschen (auch sich selber) mit Internet versorgen:
+"Friedrichshein hatte 2003 kein (brauchbares) Internet: eine isdn Leitung für ein Haus mit 35 Menschen"
+"teilen, zur verfügung stellen für menschen, die es brauchen! (heute vorrangig: geflüchteten)"
+
+freie selbstbetriebene Kommunikationsinfrastruktur
+"es gibt Recht auf freie Kommunikation und Information"
+"freie dezentrale Kommunikationsinfrastruktur, die von den Menschen (mehreren) aufgebaut und verwaltet wird;"
+"dezentral! in der hand der nutzer_innen"
+"diensen Aufbau der Infrastruktur selber machen und nicht jemandem überlassen/gegen Geld einkaufen"
+"gibt einem eine gewisse Souveränität"
+
+spannende Technik:
+"Technisch ziemlich spannend, vlt früher die Vision, dass es die große lebensrettende Alternative zur letzten Meile der Telekom war; mittlerweile diese Motivation eher aufgegeben"
+"spannend mit minimalen Resourcen maximale ergebnisse rauszuholen"
+
+Bildungsauftrag
+"aufklärung: was ist netz, wie das funktioniert, wie sicher ist das?"
+
+Communitygefühl:
+"communitygefühl"
+"community ans herz gewachsen (in hamburg und generell) --> vernetzung, familiarität"
+
+auf der Suche nach spannender/sinnvoller Freizeitbeschäftigung
+"was neues machen, worauf man bock hat, nicht vom arbeitgeber vorgegeben; man kann auch das anwenden, was man gelernt hat;"
+"großes projekt, man kann sich auch immer wieder an ner neuen ecke anbringen;"
+"was sinnvolles mit der eigenen Zeit und Geld machen"
+
+
+# Austieg??
+
+* nach Taiwan gegangen wegen Hardwaregespräche, zum ersten Job in Taiwan gekommen; sich mit Hardware das 1. Mal beschäftigt; dann halt nicht mehr vor Ort
+* mehr in die Routing-Protokoll Ecke abgedriftet, mehr Zeit in Anspruch genommen, als Freifunk als solches
+* realistisch versuchen Dinge umzusetzen
+* Interessenverschieb
+
+
 ---
 
 # Die Konkreten Fragen
