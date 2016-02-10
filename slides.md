@@ -29,7 +29,7 @@ Was ist es?
 
 ---
 
-! [Lisa](https://player.vimeo.com/video/64814620)
+![Lisa](https://player.vimeo.com/video/64814620)
 
 ---
 
