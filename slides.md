@@ -115,6 +115,86 @@ papers vorstellen;
 
 welche werden angegeben/rausgefunden/wo
 
+[HarOu2002]:
+2 Broad categories:
+* internal factors (intrinsic motivation, altruism)
+* external rewards (expected future returns, personal needs)
+
+general asumption:
+``Typically,
+open-source software is developed by an Internet-based community of pro-
+grammers. Participation is voluntary, and participants do not receive direct
+compensation for their work.''
+(but is it still the case? article was published 2002 nevertheless..)
+
+
+Wirtschaftliche Perspektive:
+``Its pro-
+ponents regard it as a paradigmatic change whereby the economics of private
+goods, built on the scarcity of resources, is replaced by the economics of pub-
+lic goods, where scarcity is not an issue.''
+--> advocating for a new economy model? smash capitalism^^?
+
+Internal factors
+* ``feelings of competence, satisfaction, and fulfillment that arise from writing programs.''
+* altruism: ``“doing something for another at some cost to oneself” [18, p. 5].
+Since open-source programmers provide something for others (writing pro-
+grams with open-source code) at their own expense (time, energy, opportu-
+nity costs, etc.), they belong to this category''
+* community identification: ``It corresponds to Maslow’s needs for belonging and love.''
+  ** align their goals with those of the community.
+  ** teach other members of the community “kin-selection altruism”
+
+External Rewards
+
+Future Rewards
+* ``may obtain indirect rewards by increasing their
+marketability and skill base or by selling related products and services.''
+* view their participation as future investment
+* Revenues from Related Products and Services: e.g. commercial consulting, training, distribution, support,
+and implementation services
+--> boundaries sometimes fuzzy
+--> sometimes competening needs: improving the software declines the need for support
+* Human Capital: expanding the personal skill base -> leads to ``better job opportunities, higher
+salaries, and more fulfilling jobs''
+  ** open source code allows to choose project according to the skills one wants to improve
+  ** allow entry level programmers to participate in real projects (<-- das würde ich fast hinterfragen^^)
+* Self-Marketing: ``effective way to demonstrate their capabilities and skills''
+  ** ``good advertising channel for those seeking to advance in the programming field.'' <-- die Lebenslaufkategorie
+* Peer Recognition
+  ** feedback (also learning): ``open-source programmers receive rapid, constructive feedback about the quality of their work.''
+  ** recognition, someone is using the software
+
+Personal Needs
+* developers program a software they personally need (historical examples: Perl, Apache Web Server)
+
+Results of the empirical survey
+-------------------------
+* 79 reponses
+* 95% male
+* 1/4 without college education
+* 1/2 working as programmers
+* 16% paid directly for developing open source
+* >1/2 participate in more than 1 project
+* 85% 20-40 years
+* 16% rated high on altruism
+* 30% identify strongly with the open-source community/have kinlike relationships with open source programmers
+* 14% (want to) sell related products or services
+* 50% wanted to improve their programming skills
+* several wanted to improve other skills: ``learn english and teamwork''
+* several do it because it ``demonstrates my abilities'' or ``I can use it as a reference''
+* 52% "because I build a network of peers"
+* ``hope to gain positive reputation''
+* ``develop tools I need to do my job''/''need the...''
+
+* ``Hobbyists and students were the most internally motivated''
+* ``Students and hobby programmers seemed to be more strongly motivated by altruism and community identification.''
+* ``Salaried and contract programmers, in contrast, hoped to sell related products and services.''
+* ``Surprisingly, for this group determination and peer recognition needs correlated negatively with level of effort.''
+* developers paid for open source: ``most concerned with self-marketing and
+fulfilling their personal software needs''
+
+
 ---
 
 # Untersuchte Arbeiten (Freifunk)
