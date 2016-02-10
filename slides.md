@@ -2,13 +2,24 @@
 % Ein Vergleich der Mitmachmotivationen bei den FOSS und Freifunk Communities
 % lusy (vaseva@mi.fu-berlin.de)
 
-
+---
 
 # FOSS
 
 Was ist es?
 
-## Def
+---
+
+A program is free software if the users have the four essential freedoms:
+
+* ... to run the program as you wish, for any purpose (freedom 0).
+* ... to study how the program works, and change it so it does your computing as you wish (freedom 1).
+* ... to redistribute copies ... (freedom 2).
+* ... to distribute copies of your modified versions to others (freedom 3).
+
+[https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
+
+---
 
  A program is free software if the users have the four essential freedoms:
 
