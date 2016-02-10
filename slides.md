@@ -343,6 +343,10 @@ Spannend:
 welche Motivationen/Faktoren haben beide Communities gemeinsam?
 In welchen Punkten unterscheiden sie sich?
 
+* niemand macht Freifunk, weil er_sie dafür bezahlt wird
+* (fast) niemand nimmt am Projekt teil, weil er_sie sich dadurch bessere Kontakte/Jobchancen wünscht (wir eher als Nebenprodukt gesehen)
+
+
 ---
 
 # Fragen?
