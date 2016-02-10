@@ -95,24 +95,41 @@ $\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht 
 
 ---
 
-# Untersuchte Papers (FOSS)
+# FOSS: Motivationen
 
---> sich auf 2 beschränken!
+---
 
-papers vorstellen;
+## Untersuchte Papers (FOSS)
+
+1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou
+2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf
+
+"Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner und Stefanie Herrmann
+"Some Simple Economics of Open Source" Josh Lerner und Jean Tirole
+"Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah
+
+---
+
+## "Working for free.."
+
+* webbasierte Umfrage
+* befragte Gruppe:
+* wirtschaftliche Perspektive
+
+---
+
+## "Why Hackers Do What They Do..."
+
+* Form
+* Gruppe
+* Perspektive
+
+---
+
+papers vorstellen
 * untersuchte gruppe
 * methodik (was hat sie für auswirkung auf die ergebnisse? evtl die frage wo anders behandeln)
 * welche perspektive vertreten die papers? (psychologisch, wirtschaftlich, sozialwissenschaftlich, ...)
-
-"Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars and Shaosong Ou
-
-"Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner and Stefanie Herrmann
-
-"Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani and Robert Wolf
-
-"Some Simple Economics of Open Source" Josh Lerner and Jean Tirole
-
-"Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah
 
 ---
 
@@ -199,6 +216,10 @@ Results of the empirical survey
 * developers paid for open source: ``most concerned with self-marketing and
 fulfilling their personal software needs''
 
+
+---
+
+# Freifunk : Motivationen
 
 ---
 
@@ -489,7 +510,9 @@ Spannend:
 
 ---
 
-# Vergleich
+# FOSS und Freifunk: Gemeinsamkeiten und Unterschiede?
+
+---
 
 welche Motivationen/Faktoren haben beide Communities gemeinsam?
 In welchen Punkten unterscheiden sie sich?
@@ -505,6 +528,8 @@ In welchen Punkten unterscheiden sie sich?
 ---
 
 # Ausblick/kritische Diskussion
+
+---
 
 * wäre spannend andere Freie Netzwerk Projekte anzugucken, die sind doch ziemlich unterschiedlich und Mitmachmotivation können durchaus variieren (vgl zb Guifi in Katalonien wo Menschen zT fürs Installieren bezahlt werden; oder wo es tatsächlich noch relevant ist, dass Menschen auf dem Land keinen Anschluss von kommerziellen Providern bekommen)
 
