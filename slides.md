@@ -154,11 +154,44 @@ semi-strukturierte Interviews
 
 ---
 
-# Ausblick/kritische Diskussion
+# Warum/wie bist du eingestiegen?
 
 * wäre spannend andere Freie Netzwerk Projekte anzugucken, die sind doch ziemlich unterschiedlich und Mitmachmotivation können durchaus variieren (vgl zb Guifi in Katalonien wo Menschen zT fürs Installieren bezahlt werden; oder wo es tatsächlich noch relevant ist, dass Menschen auf dem Land keinen Anschluss von kommerziellen Providern bekommen)
 
-* in wie fern kann man diesen Vergleich in der Form überhaupt durchziehen? Ist die Methodik nicht doch zu unterschiedlich, damit es Sinn ergibt?
+# Was ist am Projekt cool?
+
+
+# Was ist deine primäre Mitmachmotivation?
+
+---
+
+# Die Konkreten Fragen
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+2.6 Mir ist Netzneutralität wichtig
+2.7 Ich mach das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+
+---
+
+Spannend:
+
+* Nicht alle verstehen das selbe unter Netzneutralität und nicht alle erachten das als wichtig (je nach Verständnis)
+* Mitmachmotivationen verschiedener Generationen werden sichtbar:
+  ** Menschen, die vor 2008 angefangen haben: Probleme mit (schnellem) Internetzugang bekommen, man nimmt das in die eigenen Hände
+  ** Menschen, die später angefangen haben: eher aus Interesse an Netzwerktechnik/ finden die polit. Idee gut
+
+---
+
+# Vergleich
+
+welche Motivationen/Faktoren haben beide Communities gemeinsam?
+In welchen Punkten unterscheiden sie sich?
 
 ---
 
