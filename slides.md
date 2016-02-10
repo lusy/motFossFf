@@ -42,22 +42,47 @@ Was ist es?
 
 # Motivation
 
-Ryan and Deci 2000 <-- paper bildchen
+> To be motivated means to be moved to do something.
 
-``To be motivated means to be moved to do something.''
+---
 
-"intrinsische" vs "extrinsische" Motivation
-most basic distinction:
-intrinsic: inherently interesting/enjoyable
-extrinsic: leads to a separable outcome
+> Our own approach focuses primarily on psychological needs—namely,
+> the innate needs for competence, autonomy, and relatedness
 
-but
-Extrinsische Motivation != Extrinsische Motivation
---> Kontinuum
-``varied types of extrinsic motivation, some
-of which do, indeed, represent impoverished forms of motivation and some
-of which represent active, agentic states.''
+Ryan and Deci 2000
 
+---
+
+# *intrinsische* vs *extrinsische* Motivation
+
+einfache Unterscheidung:
+
+* intrinsisch: interessant/spannend/unterhaltsam an sich
+* extrinsisch: führt zu einem bestimmten Ergebnis
+
+---
+
+aber
+
+* Extrinsische Motivation != Extrinsische Motivation
+
+---
+
+Kontinuum:
+
+Amotivation $\rightarrow$ External Regulation $\rightarrow$ Introjection $\rightarrow$ Identification $\rightarrow$ Integration $\rightarrow$ Intrinsic Motivation
+
+---
+
+Intrinische Motivation fördern:
+
+* optimale Herausforderungen
+* produktives Feedback
+* Zwischenmenschliche Strukturen und Prozesse, die zu Kompetenzbildung führen
+
+---
+
+$\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht man die Aufgabe und ist auch motivierter, diese zu erledigen
 
 ---
 
