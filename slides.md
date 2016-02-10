@@ -301,28 +301,69 @@ auf der Suche nach spannender/sinnvoller Freizeitbeschäftigung
 
 Spielen folgende Punkte ne Rolle für deine Motivation:
 2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
-1 ja
+6 ja
+2 ja (spielt ne Rolle, ein Punkt von vielen)
+1 ja (auch das Umfeld, man konnte sich austauschen!)
+1 ja (deshalb angefangen: neue Protokolle, war spannend)
+1 nicht soo anspruchsvoll aber schon spannend
+1 joa, nicht Primärmotivation: technisch anspruchsvoll, aber nicht immer spannend^^; technisch interessante Sachen gibts im Projekt nicht nur im Bereich Netzwerk
+1 technisch eher langweilig
 
 2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+5 ja
+1 muss man zwangsläufig, um die idee umzusetzen
+1 nicht mit der Absicht hingegangen aber kam später dazu; "xy läuft nicht, ich wills fixen"
+1 ja (gab auch die Möglichkeit rumzuprobieren und Fehler zu machen)
+2 wusste schon wie alles geht im Grunde
+1 vorwissen mitgebracht, aber man lernt viel dazu in kurzer Zeit
+1 ja, einzelne Themen, nicht Primärfokus
+1 iwie Nebenprodukt, nicht Primärfokus
 
 2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
-naja, muss man zwangsläufig, wenn man das Projekt betreiben möchte: 1
+naja, muss man zwangsläufig, wenn man das Projekt betreiben möchte: 7
+nee eher nicht: 2
+nee, will sich nicht in vorgegebenen hierarchischen Strukturen einfügen: 1
+keine Einstiegsmotivation, aber spannend sich damit auseinander zu setzen: 1
+ist nicht uninteressant, sollten sich aber lieber Menschen mit beschäftigen, die das besser können (die juristische Sprache verstehen?): 1
+ja: 1 (im Lobbyumfeld unterwegs, politische Motivations dabei; nicht Hauptmotivation, aber kam später dazu)
+spannend unklar, aber wichtig: 2
 
 2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
-1 ja (zivilgesellschaftliche Kommunikationsinfrastruktur; die Industrie hat eine eigene; der Staat auch)
+2 ja (zivilgesellschaftliche Kommunikationsinfrastruktur; die Industrie hat eine eigene; der Staat auch)
+5 ja
+3 ja (aber glaub nicht mehr, dass das Freifunk komplett bringen kann)
+3 JA
+1 ja (ist schwierig wenn einer Person viel von der dezentralen Infrastruktur gehört)
 
 2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
-1 ja
+2 ja
+10 nein
+1 nein, aber demnächst an einem geflüchtetenprojekt mitarbeiten, wo das durchaus motivation ist
+1 nein, stellt anderen den eigenen Anschluss zur Verfügung
 
 2.6 Mir ist Netzneutralität wichtig
 (eigentlich steht das auch im Pico-Peering-Agreement..)
-1 ja
+6 ja
+1 ja (sesibilität dafür im Freifunk kontext ist nicht unbedingt gegeben)
+2 ja (aber versteht nicht unbedingt, was das mit freifunk und motivation zu tun hat)
+2 ja (aber sieht FF nicht als Kampf für Netzneutralität)
+1 ja (aber die um jeden preis zu fordern ist schwierig und nicht sehr schlau)
+1 ja (Pico-Peering-Agreement ist total wichtig!)
+1 ja (man kanns zumindest versuchen :))
 
 2.7 Ich mach das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
-1 nein
+8 nein
+1 joa, kann man als Beruf sehen^^ steckt ziemlich viel Zeit und Energie rein und hat schonmal im Kontext Geld für die eigene Arbeit bekommen
+1 macht jetzt was mit WiFi und Mesh beruflich (nicht mit Freifunk); eher Konsequenz aus Freifunk als Motivation dafür
+1 macht beruflich was mit wlan installationen, versuchts aber von ff zu trennen
+1 nein; freifunk ist hilfe zur selbshilfe
 
 2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
-1 nein (eher: war der Bereich, wo ich meine bereits vorhandenen Kenntnisse anwenden konnte)
+2 nein (eher: war der Bereich, wo ich meine bereits vorhandenen Kenntnisse anwenden konnte)
+6 nein
+1 nein (aber wenn was mit netzwerk machen wollen würde, würde die ff community schon als Kommunikations-/Kontaktplattform sehen)
+3 nein (passiert sicher, ist aber keine motivation sich mit dem Projekt zu beschäftigen)
+2 nein (schreibt man schon in den Lebenslauf aber keine Motivation um dahinzugehen)
 
 ---
 
