@@ -92,6 +92,8 @@ $\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht 
 
 # Untersuchte Papers (FOSS)
 
+--> sich auf 2 beschränken!
+
 papers vorstellen;
 * untersuchte gruppe
 * methodik (was hat sie für auswirkung auf die ergebnisse? evtl die frage wo anders behandeln)
@@ -106,8 +108,6 @@ papers vorstellen;
 "Some Simple Economics of Open Source" Josh Lerner and Jean Tirole
 
 "Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah
-
-"What Make Long Term Contributors: Willingness and Opportunity in OSS Community" Minghui Zhou and Audris Mockus
 
 ---
 
