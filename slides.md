@@ -187,6 +187,75 @@ Eine Veranstaltung hat den iniziellen Impuls gegeben
 
 # Was ist am Projekt cool?
 
+Projekt / Community Arbeit
+" aus heutiger perspektive: wie groß das geworden ist :) "
+
+"viel gelernt darüber, wie community organisation (nicht) funktioniert: wie viel struktur ist nützlich? wo ist zu viel struktur eher hinderlich? was bedeutet freiwillige arbeit? welche sachen fallen unter und warum?; müssen sachen immer entschieden werden? wer muss das entscheiden? gelernt keine erwartungen zu haben^^; wie sorgt man für Kontinuität? möglichst wenige Menschen machen wichtige Dinge alleine"
+
+freie Infrastruktur
+"(möglichst) dezentrale Netze zu bauen und dezentrale communities zu haben"
+"'eigene' Infrastruktur aufbauen, die nicht einem Konzern oder so gehört;"
+"theorie: menschen können ihre eigene Infrastruktur bauen"
+"unabhängiges Netz, nicht von Einzelperson abzuschalten"
+"dezentralisierung ist gut, macht sachen aber auch schwierig"
+
+Zugang für Menschen, die sonst keinen haben
+"Möglichkeit Menschen Zugang zum Internet zu geben, die sonst keinen haben (Refugeekontext)"
+'wie viele leute jetzt das toll finden, auch in verbindung mit "newcomer"-thematik, wie viele leute haben sich einzubrignen und mitzuhelfen; viele verschiedene mögliche ausprägungen gibt; wie viele neue communities aufpoppen;'
+
+Lehrauftrag
+"viele menschen haben in dem umfeld viel über it infrastruktur gelernt"
+
+Soziale Vernetzung
+"soziale vernetzung: (internationale) kontakte geknüpft"
+"man lernt interessante Leute kennen (und viele verschiedene); aus dem eigenen Dunst rauskommen;"
+"die Community"/"die Leute"
+
+(Technische) Spielerei
+"man kann viel rumspielen"
+"man hat was zum anfassen :) (bisschen handfester als Softwareentwicklung), macht glücklich :)"
+"man kann auf Kirchtürme hochklettern, das ist auch ziemlich cool :)"
+
+Man kann die eigenen technischen Kenntnisse erweitern
+"viel über netzwerktechnik gelernt (wenn privat sich damit beschäftigt, findet man kaum ein anderes projekt, wo man so viel lernen kann)"
+
+
+Das Gefühl, dass die eigene Arbeit gebraucht und wert geschätzt wird
+"macht spaß gewollt, gebraucht zu werden;"
+"man sieht, das benutzt wer! (geflüchtete, schüler benutzen das, positiver feedback)"
+
+
+
+# Was ist am Projekt nicht so cool?
+
+Wissensweitergabe wird vernachlässigt/Menschen bauen Wissenshierarchien auf
+"idee von wissensweitergabe steht zu wenig in fokus"
+"Machtgefälle (Wissenshierarchien/Menschen arbeiten ungern hierarchielos)"
+"die Egos, die gestreichelt werden wollen, sind auf einem Haufen anstrengend"
+
+Kommunikations/Diskussionskultur
+"Kommunikationskultur"
+"Arbeit im Team ist manchmal schwierig"
+"wenn Leute meinen, den richtigen Weg gefunden zu haben und den anderen aufzuzwingen und alles an sich reißen"
+"wenn sich Menschen richtig bekämpfen, hat das das Potenzial auch das Gesamtprojekt richtig runter zu ziehen"
+"treffen, die man viel redet und nichts passiert sind auch lästig"
+"leute, die in die presse sich als organisator_innen ausgeben und nur auf dem ruhm aus sind; trotzdem ist auch wichtig, dass jemand mit der presse und mit der stadt redet"
+
+Gender
+"genderthemen: community besteht größtenteils aus männern, die zu öffnen/erweiter funktioniert bis jetzt nicht so gut"
+
+Schwierig die Idee nach außen zu vermitteln
+"in der gesellschaft ist das thema 'informeller selbstbestimmung' auf ebene der infrastruktur schwierig zu vermitteln (erst mit der flüchtlingsthematik presenter/bewusster geworden)"
+"webseite sollte so gestalten werden, dass auch durch nicht sehr tech menschen benutzbar ist, ein kanal, die leute sollten nicht bei facebook ihren ff kram posten, weils einfacher ist"
+service-mentalität der nutzer_innen: "leute, die sich beschweren, dass es zu langsam ist (obwohl es für sie nix kostet)"
+
+(technische) Einschränkungen
+"technisch skaliert die Idee leider nicht so (die ganzen polit. Ideale, die die ursprüngliche Motivation darstellten, werden grade eher nicht umgesetzt)"
+"sehr von Einzelpersonen abhängig" : "das Funknetz wird nur von wenigen richtig verstanden und verwaltet ---> arbeitsintensiv für diese Menschen"
+"wenn es klein ist kann man viel experimentieren, wenn groß --> Servicemantalität der Nutzer_innen, an stabilität interessiert und nicht an Experimenten, die Entwickler_innen sind dann nicht mehr interessiert, die haben das schon ständig aufm Job; die Leute wollen sich nicht drum kümmern
+andererseits nur wenn groß, hast du relevante Abdeckung
+(hat man als Lebenszyklus bereits gesehen: Peak 2007, dann implodiert das Netz; auf einmal viele Serviceleute, Entwickler springen ab, Installateure auch; bestimmt Entwickler_innen abspringen auch ab, weil es iwann nicht mehr spannend ist)"
+
 
 # Was ist deine primäre Mitmachmotivation?
 
