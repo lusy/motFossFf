@@ -114,11 +114,39 @@ semi-strukturierte Interviews
   * bisschen fragwürdig wie wissenschaftlich sauber, keine Aufnahmen, sondern nur Mitschrift
   * wird aber als genügend erachtet, um einen ersten Einblick in die Breite der möglichen Motivationen zu gewinnen
 
-XX Interviews
+16 Interviews (+ 1 Person, die meinte, die würde gerne, hat aber momentan keine Kapazitäten dafür)
 
 ---
 
 # Demographischer Überblick (brauch ich das)
+
+* gender: 2f 14m
+* hintergrund
+  Programierer*in/Informatiker*in (kommt aus der Netzwerkecke): 5 (1 Person: eher beruflich in die Netzwerkecke abgedriftet nach Freifunk)
+  Programierer*in/Informatiker*in (kommt nicht aus der Netzwerkecke): 4
+  Sysadmin: 2
+  technischer Beruf (nicht Programierer*in im engeren Sinne): 1
+  (immer noch) Studi (Informatik) : 2
+  (immer noch) Studi (E-Technik): 1
+  Wissenschaftler*in (aber auch Entwickler*in): 1
+  nicht technischer Beruf
+* wie lange dabei
+  ~ 2 Jahre (bis heute): 4 Personen
+  ~ 9 Monate (bis heute): 1 Person
+  ~ 1.5 Jahre (bis heute): 1 Person
+  ~ 1 Jahr (bis heute): 1 Person
+  ~ 3 Jahre (bis heute): 5 Personen (1 kennt die Idee schon länger, erst seit 3 Jahren aber richtig aktiv)
+  ~ 4 Jahre (2004--2008): 1 Person
+  ~ 8 Jahre (~2008 bis heute): 1 Person
+  ~ 12 Jahre (seit 2004 bis heute), mittlerweile so semiaktiv: 1 Person
+  ~ 13 Jahre (seit dem Anfang) : 1 Person
+* community
+  Berlin: 9
+  Rheinland: 3
+  Hannover: 1
+  Bremen: 1
+  Bielefeld: 1
+  Hamburg: 1
 
 ---
 
