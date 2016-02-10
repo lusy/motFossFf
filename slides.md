@@ -155,6 +155,34 @@ semi-strukturierte Interviews
 ---
 
 # Warum/wie bist du eingestiegen?
+"die dezentrale, nicht-kommerzielle, hierarchielose Art Menschen zu verbinden/vernetzen finde ich gut"
+    "charmante idee": miteinander funken, sachen mit dem netz machen, sich mit der nachbarschaft vernetzen, eigene dienste anbieten, community basierte arbeit (nicht nur internet)
+
+"der Refugeekontext: Menschen Kommunikationsunterlage zu verschaffen, die sonst keinen Zugang zu einer haben"
+
+"habs gegründet^^"
+
+"Friedrichshein hatte 2003 kein (brauchbares) Internet"
+
+"änderung der regulatorischen änderungen: wlan lizenzen konnten auf einmal frei betrieben werden"
+
+"technisch interessant --> Schnittstelle zwischen Community und Technik"
+
+"hat bei sich nen router aufgestellt, mit den nachbarn geschnackt, hat denen mesh-routern konfiguriert und angedreht --> kleines mesh entstanden, hat sein internet mit reingesteckt"
+
+Eine Veranstaltung hat den iniziellen Impuls gegeben
+"BerLon Konferenz im bootlab:
+ ** durch den Austausch da, bewusster wurde dass es ein Politikum ist
+ ** wurde bewusster, dass auch Menschen in der Nachbarschaft keinen zugang zum schnellen internet haben"
+
+ "zum Nachbarschaftsvernetzungstreffen in NK hin"
+
+ "Doku über Netzwerke in UK (Consume Net), gestoßen auf FF, Router geflasht"
+
+ "aufm kongress mitbekommen und interessiert verfolgt"
+ "elitärer Haufen von Berlinern :)"
+
+ zu einem Ortstreffen hingegangen
 
 
 # Was ist am Projekt cool?
