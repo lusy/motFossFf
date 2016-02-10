@@ -329,9 +329,12 @@ naja, muss man zwangsläufig, wenn man das Projekt betreiben möchte: 1
 Spannend:
 
 * Nicht alle verstehen das selbe unter Netzneutralität und nicht alle erachten das als wichtig (je nach Verständnis)
-* Mitmachmotivationen verschiedener Generationen werden sichtbar:
+* (initielle) Mitmachmotivationen verschiedener Generationen werden sichtbar:
   ** Menschen, die vor 2008 angefangen haben: Probleme mit (schnellem) Internetzugang bekommen, man nimmt das in die eigenen Hände
   ** Menschen, die später angefangen haben: eher aus Interesse an Netzwerktechnik/ finden die polit. Idee gut
+* mehrerer sprechen den Community-Aspect an: also die Möglichkeit gemeinsam ein Projekt aufzubauen, interessante Menschen kennen zu lernen, "aus dem eigenen Dunst rauskommen"
+* nicht viele Menschen sprechen die Idee an, das eigene Wissen zu eilen (auch wenn es eine der Zentralthemen in der Selbstdarstellung vom Projekt ist)
+* "es gibt die Ego-Leute und es gibt die Altruisten"
 
 ---
 
