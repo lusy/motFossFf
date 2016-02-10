@@ -21,20 +21,24 @@ A program is free software if the users have the four essential freedoms:
 
 ---
 
- A program is free software if the users have the four essential freedoms:
+# Freie Netzwerke
 
-* The freedom to run the program as you wish, for any purpose (freedom 0).
-* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-* The freedom to redistribute copies so you can help your neighbor (freedom 2).
-*  The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+(Freifunk im Konkreten)
 
-https://www.gnu.org/philosophy/free-sw.html
+Was ist es?
 
+---
 
-# Freie Netzwerke (Freifunk im Konkreten)
+! [Lisa](https://player.vimeo.com/video/64814620)
 
-wer weiß was es ist?
+---
 
+* freie dezentrale Kommunikationsinfrastruktur, in den Händen der Community
+* freie Software (die Routerfirmware)
+* freier Zugang zum Netzwerk
+* Informationen werden durchgereicht ohne diese zu verändern oder priorisieren
+
+---
 
 # Motivation
 
