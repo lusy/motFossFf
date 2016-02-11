@@ -104,9 +104,13 @@ $\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht 
 1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou (2002)
 2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf (2005)
 
-"Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner und Stefanie Herrmann
-"Some Simple Economics of Open Source" Josh Lerner und Jean Tirole
-"Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah
+---
+
+...haben es nicht in den Vortrag geschafft...
+
+3. "Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner und Stefanie Herrmann (2003)
+4. "Some Simple Economics of Open Source" Josh Lerner und Jean Tirole (2002)
+5. "Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah (2006)
 
 ---
 
