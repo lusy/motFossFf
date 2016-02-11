@@ -70,19 +70,9 @@ aber
 
 Kontinuum:
 
-Amotivation $\rightarrow$ External Regulation $\rightarrow$ Introjection $\rightarrow$ Identification $\rightarrow$ Integration $\rightarrow$ Intrinsic Motivation
+~ Amotivation $\rightarrow$ External Regulation $\rightarrow$ Introjection $\rightarrow$ Identification $\rightarrow$ Integration $\rightarrow$ Intrinsic Motivation
 
----
-
-Intrinische Motivation fördern:
-
-* optimale Herausforderungen
-* produktives Feedback
-* Zwischenmenschliche Strukturen und Prozesse, die zu Kompetenzbildung führen
-
----
-
-$\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht man die Aufgabe und ist auch motivierter, diese zu erledigen
+~ $\rightarrow$ mit steigendem Gefühl für Autonomie und Kompetenz verinnerlicht man die Aufgabe und ist auch motivierter, diese zu erledigen
 
 ---
 
