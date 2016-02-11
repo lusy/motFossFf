@@ -114,62 +114,29 @@ Kontinuum:
 ---
 
 * webbasierte Umfrage: Emaileinladungen an 389 Menschen
-* befragte Gruppe: 79 Teilnehmende, 95% männlich, 1/4 without college education, 1/2 working as programmers
+* befragte Gruppe: 79 Teilnehmende, 95% männlich, 1/4 ohne universitäre Ausbildung, 1/2 arbeiten als Programmierer*innen
   * Unterscheidung in Studierende/Hobbyprogrammierer\*innen; Menschen, die als Programmierer\*innen arbeiten; Menschen, die für (F)OSS-Entwicklung bezahlt werden
-* wirtschaftliche Perspektive (wirtschaftlichen Paradigmenwechsel)
 
 ---
 
 ## Motivation
 
-2 große Kategorien:
-
-* interne Faktoren (intrinsische Motivation, Altruismus)
-* externe Belohnungen (erwartete zukünftige Nutzen, persönliche Bedürfnisse)
+2 große Kategorien
 
 ---
 
-## Interne Faktoren
+interne Faktoren:
 
-* self-determination: "feelings of competence, satisfaction, and fulfillment that arise from writing programs."
-* altruism: "“doing something for another at some cost to oneself” [18, p. 5].
-Since open-source programmers provide something for others (writing pro-
-grams with open-source code) at their own expense (time, energy, opportu-
-nity costs, etc.), they belong to this category"
-* community identification
-  * align their goals with those of the community.
-  * teach other members of the community “kin-selection altruism”
+* intrinsische Motivation ("self-determination", "feelings of competence, satisfaction, and fulfillment")
+* Altruismus ("doing something for another at some cost to oneself")
+* Identifizierung mit einer Community
 
 ---
 
-## Externe Faktoren
+externe Belohnungen:
 
-### Erwartete Belohnungen
-
-* "may obtain indirect rewards by increasing their
-marketability and skill base or by selling related products and services."
-* view their participation as future investment
-* Revenues from Related Products and Services: e.g. commercial consulting, training, distribution, support,
-and implementation services
---> boundaries sometimes fuzzy
---> sometimes competening needs: improving the software declines the need for support
-* Human Capital: expanding the personal skill base -> leads to "better job opportunities, higher
-salaries, and more fulfilling jobs"
-  ** open source code allows to choose project according to the skills one wants to improve
-  ** allow entry level programmers to participate in real projects (<-- das würde ich fast hinterfragen^^)
-* Self-Marketing: "effective way to demonstrate their capabilities and skills"
-  ** "good advertising channel for those seeking to advance in the programming field." <-- die Lebenslaufkategorie
-* Peer Recognition
-  ** feedback (also learning): "open-source programmers receive rapid, constructive feedback about the quality of their work."
-  ** recognition, someone is using the software
-
----
-
-## Externe Faktoren
-
-### Persönliche Bedürfnisse
-
-* developers program a software they personally need (historical examples: Perl, Apache Web Server)
+* erwartete zukünftige Nutzen ("incerasing their marketability and skill base", "better job opportunities, higher salaries, more fulfilling jobs", "allow entry level programmers to participate in real projects", "selling related products and services", peer recognition and feedback)
+* Erfüllung persönlicher Bedürfnisse
 
 ---
 
