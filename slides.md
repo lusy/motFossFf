@@ -540,12 +540,21 @@ Spannend:
 
 ---
 
+allgemeine Faktoren
+
+* es ist einfacher freie Software zu schreiben als freie Nentzwerke zu betreiben
+
+
 welche Motivationen/Faktoren haben beide Communities gemeinsam?
 In welchen Punkten unterscheiden sie sich?
 
 * niemand macht Freifunk, weil er_sie dafür bezahlt wird
-* (fast) niemand nimmt am Projekt teil, weil er_sie sich dadurch bessere Kontakte/Jobchancen wünscht (wir eher als Nebenprodukt gesehen)
-
+* (fast) niemand nimmt am Projekt teil, weil er_sie sich davon bessere Kontakte/Jobchancen verspricht (wird eher als Nebenprodukt gesehen) (an FOSS dagegen angeblich schon)
+* sowohl bei FOSS als auch bei Freifunk gibt es Menschen, die aus persönlichen Bedürfnissen teilnehmen ("Ich hatte kein Netz" / "Ich brauchte das Feature XY")
+* auch wenn mir unklar ist, wie ich Altruismus messen sollte, scheinen bei Freifunk die Mehrheit der Menschen von der politischen Idee einer dezentralen autonomen Kommunikationsinfrastruktur bewegt zu werden
+* Communitybildung/-zugehörigkeit wichtig
+* ein Großteil der Menschen findet die Beschäftigung mit Netzwerken spannend
+* einige wollen ihre Netzwerkkenntnisse und -fähigkeiten ausbauen, scheint aber nicht so in Fokus zu sein (dagegen bei FOSS eher)
 
 ---
 
