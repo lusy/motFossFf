@@ -265,13 +265,13 @@ papers vorstellen
 
 # Methodik
 
-semi-strukturierte Interviews
-  * Daten eher qualitativer als quantitativer Natur
-  * Sample zu klein um wirklich verallgemeinernde Aussagen zu treffen
-  * bisschen fragwürdig wie wissenschaftlich sauber, keine Aufnahmen, sondern nur Mitschrift
-  * wird aber als genügend erachtet, um einen ersten Einblick in die Breite der möglichen Motivationen zu gewinnen
+semi-strukturierte Interviews:
 
-16 Interviews (+ 1 Person, die meinte, die würde gerne, hat aber momentan keine Kapazitäten dafür)
+* Daten eher qualitativer als quantitativer Natur
+* Sample zu klein um wirklich verallgemeinernde Aussagen zu treffen
+* bisschen fragwürdig wie wissenschaftlich sauber, keine Aufnahmen, sondern nur Mitschrift
+* wird aber als genügend erachtet, um einen ersten Einblick in die Breite der möglichen Motivationen zu gewinnen
+* 16 Interviews (+ 1 Person, die meinte, die würde gerne, hat aber momentan keine Kapazitäten dafür)
 
 ---
 
