@@ -640,17 +640,25 @@ andererseits nur wenn groß, hast du relevante Abdeckung"
 
 ---
 
+# Fragen?
+
+---
+
+# Diskussion
+
+---
+
 # FOSS und Freifunk: Gemeinsamkeiten und Unterschiede?
 
 ---
 
-allgemeine Faktoren
+## allgemeine Faktoren
 
 * es ist einfacher freie Software zu schreiben als freie Nentzwerke zu betreiben
 
+---
 
-welche Motivationen/Faktoren haben beide Communities gemeinsam?
-In welchen Punkten unterscheiden sie sich?
+##  Gemeinsamkeiten/Unterschiede in den Motivationen
 
 * niemand macht Freifunk, weil er_sie dafür bezahlt wird
 * (fast) niemand nimmt am Projekt teil, weil er_sie sich davon bessere Kontakte/Jobchancen verspricht (wird eher als Nebenprodukt gesehen) (an FOSS dagegen angeblich schon)
@@ -662,19 +670,16 @@ In welchen Punkten unterscheiden sie sich?
 
 ---
 
-# Fragen?
+Die Papers beschäftigen sich (vor allem) mit der Motivation von Entwickler*innen. Allerdings gibt es auch andere Möglichkeiten zu beiden Communities beizutragen (user documentation, publicity, design, Übersetzung, ...). Kann man sich da andere Motivationen vorstellen?
 
 ---
 
-# Ausblick/kritische Diskussion
+# Ausblick
 
 ---
 
-* wäre spannend andere Freie Netzwerk Projekte anzugucken, die sind doch ziemlich unterschiedlich und Mitmachmotivation können durchaus variieren (vgl zb Guifi in Katalonien wo Menschen zT fürs Installieren bezahlt werden; oder wo es tatsächlich noch relevant ist, dass Menschen auf dem Land keinen Anschluss von kommerziellen Providern bekommen)
-
+* wäre spannend andere Freie Netzwerk Projekte anzugucken
 * in wie fern kann man diesen Vergleich in der Form überhaupt durchziehen? Ist die Methodik nicht doch zu unterschiedlich, damit es Sinn ergibt?
-
-* Die Papers beschäftigen sich (vor allem) mit der Motivation von Entwickler*innen. Allerdings gibt es auch andere Möglichkeiten zu beiden Communities beizutragen (user documentation, publicity, design, Übersetzung, ...). Kann man sich da andere Motivationen vorstellen?
 
 ---
 
