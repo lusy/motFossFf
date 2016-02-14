@@ -189,7 +189,9 @@ externe Belohnungen:
 * "Hobbyists and students were the most internally motivated"
 * "Students and hobby programmers seemed to be more strongly motivated by altruism and community identification."
 * "Salaried and contract programmers, in contrast, hoped to sell related products and services."
-* "Surprisingly, for this group determination and peer recognition needs correlated negatively with level of effort."
+
+---
+
 * developers paid for open source: "most concerned with self-marketing and
 fulfilling their personal software needs"
 
@@ -199,65 +201,40 @@ fulfilling their personal software needs"
 
 * web-basierte Untersuchung
 * 2 Teile ("first was targeted at Alpha, Beta, and Production/Stable projects and the second at Mature projects")
-* Projekte mit > 1 Entwickler*in
+* Projekte mit $> 1$ Entwickler*in
 * random sample
 * 1648 bzw 573 Einladungsemails verschickt
-* befragte Gruppe: 684 Antworten, fast alle männlich, etwa 19% Studis, die Mehrheit arbeitet als Entwickler*in und hat eine IT-Ausbildung
+* befragte Gruppe: 684 (526/173) Antworten, fast alle männlich, etwa 19% Studis, die Mehrheit arbeitet als Entwickler\*in und hat eine IT-Ausbildung
 
 ---
 
 ## Motivation
 
-3 general motivation categories
+3 grundlegende Kategorien
 
-* intrinsic, flow/creativity based
-* extrinsic (career advancement, payment) --> economic in essence
-* intrisic, community obligation (acting out of principle; returning something to the foss community; foss rocks; identification with the foss community..)
----> table 6 for more detailed summary of motivations (+ some percentages)
+* intrinsisch, Flow/Kreativität basiert
+* extrinsisch (bessere Berufschancen durch Kontakte knüpfen / Skills verbessern, direkte Bezahlung)
+* intrinsisch, Community-Verpflichtung ("acting out of principle"; "returning something to the foss community"; politisch/ideologisch von der Idee überzeugt; Identifikation mit der FOSS-Community; ...)
 
 ---
+
+folien nach unten aufklappen!
 
 "flow":
 
-``enjoyment is maximized, characterized by intense and focused concentration; a
+* "enjoyment is maximized, characterized by intense and focused concentration; a
 merging of action and awareness; confidence in one’s ability; and the enjoyment of the activity
-itself regardless of the outcome''
-``Flow states occur a person’s skill matches the challenge of a task. [...]
+itself regardless of the outcome"
+* "Flow states occur a person’s skill matches the challenge of a task. [...]
 A task that is beyond the skill of an individual will provoke anxiety, and a task
-that is below the person’s skill level will induce boredom.''
-``Thus F/OSS participants may be
+that is below the person’s skill level will induce boredom."
+* "Thus F/OSS participants may be
 seeking flow states by selecting projects that match their skill levels with task difficulty, a choice
-that may not be available in their regular jobs''
+that may not be available in their regular jobs"
 
 ---
 
-extrinsic motivation:
-
-immediate and delayed payoffs (gibts schon iwo anders auch)
-* immediate: being paid to participate; user need for particular software
-* delayed: career advancement (job market signaling); improving programming skills (human capital)
-``Participants indicate
-to potential employers their superior programming skills and talents by contributing code to
-projects where their performance can be monitored by any interested observer''
-
----
-
-payment:
-
-``The combination of those who received direct financial compensation
-and those whose supervisors knew of their work on the project created a category of “paid
-contributors” consisting of approximately 40% of the sample.''
-``Overall, paid contributors are spending more than two working days a week and
-volunteer contributors are spending more than a day a week on F/OSS projects.''
---> später wird das als Argument für Produktivität oder so herangezogen, was ich bisschen absurd finde;
-klar, können Menschen, die dafür bezahlt werden, sich mehr damit beschäftigen, die anderen müssen immer noch auch Lohnarbeit verrichten..
-
-* previous work
-  ** states that previous work has found mostly extrinsic motivation (better jobs, career advancement)
-
----
-
-## Findings (short version):
+## Ergebnisse (Kurzfassung):
 
 * motivation is heterogeneous combination of both intrinsic and extrinsic factors (enjoyment based intrinsic motivation is prevailing)
 * intrinsic/extrinsic do not compete against or diminish each other (contrary to established psychology findings)
@@ -265,63 +242,58 @@ klar, können Menschen, die dafür bezahlt werden, sich mehr damit beschäftigen
 
 ---
 
-# Findings (longer version)
+# Ergebnisse
 
 ---
 
-58% user need
-
-* > User needs for the software, both work and nonwork-related, combine to be the
-  > overwhelming reason for contribution and participation (von Hippel 1988, 2001, 2002), with
-  > more than 58% of participants citing them as a important.
+### 58% user need (work and nonwork-related)
 
 ---
 
-* enjoyment: ``The top single reason to contribute to projects is based on enjoyment-related intrinsic
-motivation: “Project code is intellectually stimulating to write” (44.9%)''
+### 44.9% enjoyment
+
+"Project code is intellectually stimulating to write"
 
 ---
 
-* improving programming skills : ``Improving programming
-skills, an extrinsic motivation related to human capital improvement, was a close second, with
-41.8% of participants saying it was an important motivator.''
-(ich finde "intellectual stimulation" und "improving programming skills" recht schwierig von einander abzugrenzen)
+### 41.8% improving programming skills
+
+* was ist der Unterschied zwischen "intellectual stimulation" und "improving programming skills" ?
 
 ---
 
-* identification with open source values: ``Approximately one-third of our sample indicated that the belief that “source code should
-be open,” an obligation/community motivation, was an important reason for their participation.''
+### identification with open source values
+
+* $~1/3$ "source code should be open"
+* "42% [...] strongly agree and another 41% somewhat agree that the hacker community is a primary source of their identity"
 
 ---
 
-* identification with the hacker community: (wird nicht in der summary tabelle aufgelistet.. eine weitere Inkonsistenz)
-``Another sou rce of an obligation/community motivation is the level of identification felt
-with the hacker community. Self-identification with the hacker community and ethic should
-drive participation in projects. Respondents to our survey indicated a strong sense of g roup
-identification with 42% indicating that they “strongly agree” and another 41% “somewhat agree”
-that the hacker community is a primary source of their identity''
+### payment
+
+* $~40%$ direct financial compensation/supervisors knew of the work on the project
+* "Overall, paid contributors are spending more than two working days a week and
+volunteer contributors are spending more than a day a week on F/OSS projects."
+* "It is consistent for someone paid to participate in the F/OSS movement to be moved by the political
+goals of free software and open code."
 
 ---
 
-* ``It is consistent for someone paid to participate in the F/OSS movement to be moved by the political
-goals of free software and open code.''
---> jo, auf jeden Fall, man kann sich auch nur durch Läden einstellen lassen, dir für die Entwiklung eben solcher Software zahlen
+### top motivations
+
+* for paid contributors: "work-related user need (56%) and value professional status (22.8%)"
+* for volunteers: "improve their skills (45.8%) or need the software for non -work purposes (37%)"
 
 ---
 
-top motivations:
-* for paid contributors: ``work-related user need (56%) and value professional status (22.8%)''
-* for volunteers: ``improve their skills (45.8%) or need the software for non -work purposes (37%)''
+### impact on hours per week
 
----
-
-impact on hours per week:
 * largest positive: personal sense of creativity; like the team; caring about reputation in the foss community
 * negative impact: if a person works on multiple projects at the same time (logical, they have less time per project Oo), formal it training (warum auch immer, wird nicht weiter analysiert)
 
 ---
 
-Kritik
+## Kritik
 
 * gramatikalische, Rechtschreibfehler
 * unlogische Schlussfolgerungen
@@ -330,17 +302,17 @@ Kritik
 
 die Folien sollen nach unten
 
-``A detailed examination of the difference in project types between those that stated work-related needs and
-nonwork -related needs showed that there was no technical difference between them.''
+"A detailed examination of the difference in project types between those that stated work-related needs and
+nonwork -related needs showed that there was no technical difference between them."
 
 --> Ich finds äußerst merkwürdig dass hier ein Unterschied erwartet wurde
 
 ---
 
-* ``A majority of the projects that
+* "A majority of the projects that
 were indicated as nonwork were of sufficient technical scope and applicability that firms also produced similar
 proprietary versions. We therefore see a blurring of distinction in the software produced for work and nonwork
-purposes.''
+purposes."
 --> Die Schlussfolgerung find ich auch bescheuert; bloß weil es Firmen gibt, die proprietäre Software schreiben, für die es FOSS Alternativen gibt, heißt es nicht dass der Bedarf für diese Software job-related ist
 --> Ich kann es nachvollziehen, dass die Unterscheidung zwischen Software geschrieben für work and non work puproses schwammig ist, ist ja naheliegend;
 Jedoch hat das wohl kaum damit zu tun, dass non-work related projects technisch genau anspruchsvoll sind.
