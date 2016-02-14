@@ -685,18 +685,27 @@ Die Papers beschäftigen sich (vor allem) mit der Motivation von Entwickler*inne
 
 # Literatur
 
+1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou (2002)
+2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf (2005)
+3. "Motivation of software developers in Open Source projects: an Internet-based surey of contributors to the Linux kernel" Guido Hertel, Sven Niedner und Stefanie Herrmann (2003)
+4. "Some Simple Economics of Open Source" Josh Lerner und Jean Tirole (2002)
+5. "Motivation, Governance, and the Viability of Hybrid Forms in Open Source Software Development" Sonali Shah (2006)
+6. "Wlan für alle: Freie Funknetze in der Praxis" -- mabb Broschüre (2014)
+7. "Freie Netze: Geschichte, Politik und Kultur offener WLAN-Netze" -- Armin Medosch (2004)
+8. "Wireless Networking in the Developing World" -- Jane Butler (2013)
+
 ---
 
 # Images
 
-"Heckert GNU white". Via Wikipedia - (https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg#/media/File:Heckert_GNU_white.svg)
-"Germany Location Map". Via Wikidepia - (https://de.wikipedia.org/wiki/Datei:Germany_location_map.svg)
+* ["Heckert GNU white". Via Wikipedia](https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg#/media/File:Heckert_GNU_white.svg)
+* ["Germany Location Map". Via Wikidepia](https://de.wikipedia.org/wiki/Datei:Germany_location_map.svg)
 
 ---
 
 # Lizenz
 
-Diese Folien stehen unter der [by-sa Creative Common Lizenz] (https://creativecommons.org/licenses/by-sa/4.0/).
+Diese Folien stehen unter der [by-sa Creative Common Lizenz](https://creativecommons.org/licenses/by-sa/4.0/).
 ![by](Cc-by_new_white.svg)
 ![sa](Cc-sa_white.svg)
 
